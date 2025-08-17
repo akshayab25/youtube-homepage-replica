@@ -63,7 +63,7 @@
 .search-bar:focus{
   border: 1px, solid, rgb(57, 73, 175);
   outline: none;
-  background: url("../icons/search.svg") no-repeat left 10px center;
+  background: url("https://akshayab25.github.io/youtube-homepage-replica/icons/search.svg") no-repeat left 10px center;
   background-size: 18px;
   padding-left: 35px;
 }
