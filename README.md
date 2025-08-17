@@ -21,5 +21,7 @@ The main objective of this project was to strengthen:
 - Practicing responsive design techniques  
 - Replicating real-world product UI/UX  
 
+## 🌏 Live Demo
+Check out the project here: [YouTube HomePage Replica](https://akshayab25.github.io/youtube-homepage-replica/)
 ## 🧩 Inspiration
 This project was inspired by a YouTube tutorial and served as a practice exercise to apply and strengthen my HTML and CSS skills.
